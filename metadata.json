@@ -1,0 +1,6 @@
+{
+  "name": "Snake Legends",
+  "description": "Snake Legends – Battle Arena: A colorful 2D cartoon snake survival arena game with 4 modes, custom skins, power-ups, daily rewards, and cloud leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
