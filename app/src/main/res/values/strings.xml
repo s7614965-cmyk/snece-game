@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Snake Legends</string>
+    <string name="game_full_title">Snake Legends – Battle Arena</string>
+    <string name="menu_play">PLAY BATTLE</string>
+    <string name="menu_select_snake">SELECT SNAKE</string>
+    <string name="menu_game_modes">GAME MODES</string>
+    <string name="menu_shop">ARENA SHOP</string>
+    <string name="menu_rewards">DAILY REWARDS</string>
+    <string name="menu_leaderboard">LEADERBOARD</string>
+    <string name="menu_settings">SETTINGS</string>
+    <string name="cd_hero_banner">Snake Legends Battle Arena illustration</string>
+    <string name="cd_pause_game">Pause game</string>
+    <string name="cd_boost">Boost speed</string>
+    <string name="cd_special_ability">Activate special ability</string>
+    <string name="cd_back">Navigate back</string>
 </resources>
